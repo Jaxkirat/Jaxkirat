@@ -22,6 +22,12 @@
 
 ###
 
+<div align="left">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
+</div>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -43,9 +49,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Jaxkirat/Jaxkirat/output/snake.svg" alt="Snake animation" />
 
 ###
